@@ -18,5 +18,4 @@ object Casting {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
 	val a = 1000L;System.out.println("""a  : Long = """ + $show(a ));$skip(15); val res$4 = 
 	a.isValidByte;System.out.println("""res4: Boolean = """ + $show(res$4));$skip(16); val res$5 = 
 	a.isValidShort;System.out.println("""res5: Boolean = """ + $show(res$5))}
-	
 }

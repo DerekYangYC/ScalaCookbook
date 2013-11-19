@@ -18,5 +18,4 @@ object Casting {
 	val a = 1000L                             //> a  : Long = 1000
 	a.isValidByte                             //> res4: Boolean = false
 	a.isValidShort                            //> res5: Boolean = true
-	
 }
