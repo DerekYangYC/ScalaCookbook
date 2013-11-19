@@ -20,7 +20,8 @@ object OverrideType {
 	
 	
 	//prefer
-	val h:Double = 0                          //> h  : Double = 0.0
+	val h:Double = 1                          //> h  : Double = 1.0
+	
 	
 	//ascription
 	val s = "Dave"                            //> s  : String = Dave

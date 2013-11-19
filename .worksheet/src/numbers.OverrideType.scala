@@ -20,7 +20,8 @@ object OverrideType {;import org.scalaide.worksheet.runtime.library.WorksheetSup
 	
 	
 	//prefer
-	val h:Double = 0;System.out.println("""h  : Double = """ + $show(h ));$skip(32); 
+	val h:Double = 1;System.out.println("""h  : Double = """ + $show(h ));$skip(35); 
+	
 	
 	//ascription
 	val s = "Dave";System.out.println("""s  : String = """ + $show(s ));$skip(19); 
