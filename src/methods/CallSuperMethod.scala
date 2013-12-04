@@ -33,7 +33,7 @@ object CallSuperMethod extends App {
   println(s"c.printFather = ${c.printFather}")
   println(s"c.printHuman = ${c.printHuman}")
 
-  // can¡¦t continue to reach up through the parent class hierarchy
+  // can't continue to reach up through the parent class hierarchy
   trait Animal {
     def walk { println("Animal is walking") }
   }

@@ -3,7 +3,7 @@
  * You want to create a base class that requires constructor arguments.
  * The code will be called from Java code.
  * 
- * Because a class can extend only one abstract class, when you¡¦re trying to decide whether to use a trait or abstract class, 
+ * Because a class can extend only one abstract class, when youï¿½ï¿½re trying to decide whether to use a trait or abstract class, 
  * always use a trait,
  */
 package classes

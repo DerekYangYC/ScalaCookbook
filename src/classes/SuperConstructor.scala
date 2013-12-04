@@ -1,7 +1,7 @@
 /**
  * 4.11 Calling a Superclass Constructor
- *  you can control the superclass constructor that¡¦s called by the primary constructor in a subclass,
- *  but you  can¡¦t  control the superclass constructor that¡¦s called by an auxiliary constructor in the subclass
+ *  you can control the superclass constructor thatï¿½ï¿½s called by the primary constructor in a subclass,
+ *  but you  canï¿½ï¿½t  control the superclass constructor thatï¿½ï¿½s called by an auxiliary constructor in the subclass
  */
 package classes
 

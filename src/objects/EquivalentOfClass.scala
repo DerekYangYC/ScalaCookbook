@@ -1,6 +1,6 @@
 /**
- * 6.2. The Scala Equivalent of Java¡¦s .class
- * Use the Scala classOf  method instead of Java¡¦s .class
+ * 6.2. The Scala Equivalent of Java's .class
+ * Use the Scala classOf  method instead of Java's .class
  * 
  * //scala
  * val info = new DataLine.Info(classOf[TargetDataLine], null)

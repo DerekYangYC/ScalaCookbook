@@ -24,7 +24,7 @@ object AuxiliaryConstructors extends App {
       this(Pizza.DEFAULT_CRUST_SIZE, Pizza.DEFAULT_CRUST_TYPE)
     }
 
-    //all of the auxiliary constructors call the primary constructor, but this isn¡¦t necessary; 
+    //all of the auxiliary constructors call the primary constructor, but this isnï¿½ï¿½t necessary; 
     //an auxiliary constructor just needs to call one of the previously defined constructors.
     def this(crustType: String) {
       this(Pizza.DEFAULT_CRUST_SIZE)

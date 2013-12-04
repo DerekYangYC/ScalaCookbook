@@ -22,7 +22,7 @@ object VariableArgument extends App {
   
   printAll(fruits: _*)
   
-  //treating the ¡§no args¡¨ situation as a Nil$  keeps your code from throwing a NullPointerException
+  //treating the no args situation as Nil.keeps your code from throwing a NullPointerException
   printAll()
   
 }
